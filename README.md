@@ -1,6 +1,6 @@
 # SpoonshotIntern_AE20B026
 BOOK INVENTORY 
-What is this project about?__
+What is this project about?<br/>
 This is a project where the user/admin can be able to search for a book and then add the book to the inventory if it is required to be added.Deleting the book once it goes out of stock can also be done.__
 Installation__
 npm install __
